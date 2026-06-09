@@ -128,14 +128,3 @@ is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF
 ANY KIND, either express or implied. See the License for the specific
 language governing permissions and limitations under the License.
 
--------------------------------------------------------------------------------
-
-Citation request
-
-If you use this software in published research, please cite:
-
-  Agrawal et al. (2026). B-BIND: Biophysical Bayesian inference for
-  neurodegenerative dynamics. The Annals of Applied Statistics, 20(1), 285–306.
-
-This citation request is not a legal requirement of the Apache License,
-Version 2.0.

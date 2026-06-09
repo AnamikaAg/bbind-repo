@@ -19,6 +19,8 @@ conda-env/
 *.npy
 *.mat
 *.tsv
+*.csv
+*.xml
 
 # Large/generated folders
 results/
