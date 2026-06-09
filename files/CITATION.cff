@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+title: "B-BIND"
+abstract: >
+  A configurable single-region implementation of B-BIND (Biophysical Bayesian
+  Inference for Neurodegenerative Dynamics) for inferring continuous disease
+  pseudotime from cross-sectional quantitative neuropathology data.
+license: Apache-2.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Agrawal
+      given-names: Anamika
+    - family-names: Rachleff
+      given-names: Victoria M
+    - family-names: Travaglini
+      given-names: Kyle J
+    - family-names: Mukherjee
+      given-names: Shubhabrata
+    - family-names: Crane
+      given-names: Paul K
+    - family-names: Hawrylycz
+      given-names: Michael
+    - family-names: Keene
+      given-names: C Dirk
+    - family-names: Lein
+      given-names: Ed
+    - family-names: Mena
+      given-names: Gonzalo E
+    - family-names: Gabitto
+      given-names: Mariano I
+  title: "B-BIND: Biophysical Bayesian inference for neurodegenerative dynamics"
+  journal: "The Annals of Applied Statistics"
+  volume: 20
+  issue: 1
+  start: 285
+  end: 306
+  year: 2026
+  publisher:
+    name: "Institute of Mathematical Statistics"

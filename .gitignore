@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+conda-env/
+*.egg-info/
+
+# Data / model outputs
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.mat
+*.tsv
+
+# Large/generated folders
+results/
+outputs/
+figures/
+checkpoints/
+models/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
