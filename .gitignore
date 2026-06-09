@@ -23,6 +23,7 @@ conda-env/
 *.xml
 
 # Large/generated folders
+data/
 results/
 outputs/
 figures/
