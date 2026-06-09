@@ -1,18 +1,36 @@
-name: bbind
+name: bbind-env
 channels:
   - conda-forge
-  - defaults
+
 dependencies:
-  - python=3.11
+  - python=3.10
   - pip
+
+  # Core numerics/data
   - numpy
-  - pandas
   - scipy
+  - pandas
+  - scikit-learn
+  - statsmodels
+
+  # Bayesian inference / posterior analysis
+  - jax
+  - jaxlib
+  - numpyro
+  - arviz
+
+  # Single-cell / annotated matrix analysis
+  - scanpy
+  - anndata
+  - h5py
+
+  # Plotting / IO / utilities
   - matplotlib
   - seaborn
-  - scikit-learn
-  - pip:
-    - jax[cpu]
-    - numpyro
-    - arviz
-    - jupytext
+  - openpyxl
+  - tqdm
+  - xarray
+
+  # Notebook support
+  - ipykernel
+  - notebook
