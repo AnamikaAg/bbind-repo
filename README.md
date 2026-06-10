@@ -67,9 +67,11 @@ it is not inferred. This ensures pseudotime is identifiable.
 
 ## Installation
 
+For the conda environment:
+
 ```bash
 conda env create -f environment.yml
-conda activate bbind
+conda activate bbind-env
 ```
 
 ---
