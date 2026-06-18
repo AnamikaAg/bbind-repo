@@ -19,15 +19,13 @@ If you use this code in published research, please cite:
 > Hawrylycz, M., Keene, C. D., Lein, E., Mena, G. E., & Gabitto, M. I. (2026).
 > B-BIND: Biophysical Bayesian inference for neurodegenerative dynamics.
 > *The Annals of Applied Statistics*, 20(1), 285–306.
-> https://doi.org/10.1214/25-AOAS2091
+> https://doi.org/10.1214/25-AOAS2078
 
 BibTeX:
 ```bibtex
 @article{agrawal2026b,
   title={B-BIND: Biophysical Bayesian inference for neurodegenerative dynamics},
-  author={Agrawal, Anamika and Rachleff, Victoria M and Travaglini, Kyle J and
-          Mukherjee, Shubhabrata and Crane, Paul K and Hawrylycz, Michael and
-          Keene, C Dirk and Lein, Ed and Mena, Gonzalo E and Gabitto, Mariano I},
+  author={Agrawal, Anamika and Rachleff, Victoria M and Travaglini, Kyle J and Mukherjee, Shubhabrata and Crane, Paul K and Hawrylycz, Michael and Keene, C Dirk and Lein, Ed and Mena, Gonzalo E and Gabitto, Mariano I},
   journal={The Annals of Applied Statistics},
   volume={20},
   number={1},
